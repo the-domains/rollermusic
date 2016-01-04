@@ -1,0 +1,28 @@
+name: rollermusic
+favicon: null
+layout_spectrum: 0.2759160827845335
+typography_spectrum: 0.7446505329571664
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9597540374379605
+  lightness: 0.6702985481824726
+  saturation: 0.4417904613073915
+  rhythmicContrast: 0.9739027384202927
+purpose: []
