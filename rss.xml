@@ -4,20 +4,13 @@
         <description><![CDATA[rollermusic]]></description>
         <link>https://thegrid.ai/rollermusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 15:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 18:41:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rollermusic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[what]]></title>
             <description><![CDATA[<article><h1>what</h1><p>music and media blogfounded 5 jan 2015by scott roller / scooter deemore: scottroller.deopen-music.eu (german)</p></article>]]></description>
             <link>https://thegrid.ai/rollermusic/what/index.html</link>
             <guid isPermaLink="false">71eec610-cb8f-4e03-bf7e-58ab645e8cef</guid>
-            <pubDate>Tue, 05 Jan 2016 15:12:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[into 2016]]></title>
-            <description><![CDATA[<h1>into 2016</h1>]]></description>
-            <link>https://thegrid.ai/rollermusic/into-2016/index.html</link>
-            <guid isPermaLink="false">1faedf5b-6a97-4819-9bfc-d31bc141b23b</guid>
             <pubDate>Tue, 05 Jan 2016 15:12:44 GMT</pubDate>
         </item>
     </channel>
